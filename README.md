@@ -17,3 +17,5 @@
 | `docs/notification-policy` | 최수민 | M2 | 예정 |
 | `docs/wellness-copy-experiment` | 최수민 | M3 | 예정 |
 | `docs/release-uat` | 최수민 | M4 | 예정 |
+
+PRD·TRD·API 문서끼리 서로 다르게 적혀있던 부분들(로그인 방식, 알림 조건 개수, 보정 상한값 등)을 하나로 확정한 문서예요. 각자 담당 파트 관련된 부분만 훑어보고 실제 구현이랑 맞는지 확인해서 Approve 눌러주시면 됩니다.
